@@ -1,0 +1,16 @@
+.App ul {
+  width: 20%;
+  text-align: left;
+  list-style-type: none;
+
+}
+.App li{
+  border: 1px solid black;
+  padding-left: 10px;
+}
+.App li:hover {
+  background-color: lightblue;
+}
+.App .selected {
+  background-color: lightblue;
+}
